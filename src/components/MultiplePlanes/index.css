@@ -1,0 +1,14 @@
+.MultiplePlanes {
+  width: 80vw;
+  margin: 0 auto;
+  padding: 10rem 0 5rem 0;
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  overflow-anchor: none;
+}
+
+.MultiplePlanes-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
